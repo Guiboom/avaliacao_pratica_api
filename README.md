@@ -1,2 +1,4 @@
 # avaliacao_pratica_api
-Prof Paulo
+do Prof Paulo.
+
+Verifique a porta caso esteja dando erro.
